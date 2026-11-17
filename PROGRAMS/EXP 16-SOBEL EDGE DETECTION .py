@@ -1,4 +1,4 @@
-import cv2
+.import cv2
 import numpy as np
 
 image = cv2.imread(r"C:\Users\Dharshini\Downloads\Stylish Duck with Flowers.jpg")
